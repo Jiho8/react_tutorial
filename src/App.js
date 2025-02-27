@@ -12,7 +12,7 @@ import './Style.scss';
 function App() {
 
   return (
-    <BrowserRouter basename='/react_tutorial'>
+    <BrowserRouter>
       <header>
         <NavLink to="/">HOME</NavLink>
         <NavLink to="/css">CSS</NavLink>
