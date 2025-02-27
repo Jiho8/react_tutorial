@@ -1,0 +1,30 @@
+.test{
+    color: rgb(96, 210, 255);
+}
+
+header{
+    text-align: center;
+    a{
+        display: inline-block;
+        margin: 50px 30px;
+    }
+}
+
+main{
+    width: 70%;
+    margin: 0 auto;
+    dl{
+        margin: 0; padding: 0;
+        dt{
+            text-align: center;
+            padding: 10px 0;
+            background-color: #eee;
+        }
+        dd{
+            margin: 0;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+            line-height: 2;
+        }
+    }
+}
