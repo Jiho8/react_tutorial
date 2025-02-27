@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_tutoral/static/css/main.105f0f8f.css",
+    "main.js": "/react_tutoral/static/js/main.22e9dd18.js",
+    "static/js/453.53cb6ab8.chunk.js": "/react_tutoral/static/js/453.53cb6ab8.chunk.js",
+    "index.html": "/react_tutoral/index.html",
+    "main.105f0f8f.css.map": "/react_tutoral/static/css/main.105f0f8f.css.map",
+    "main.22e9dd18.js.map": "/react_tutoral/static/js/main.22e9dd18.js.map",
+    "453.53cb6ab8.chunk.js.map": "/react_tutoral/static/js/453.53cb6ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.105f0f8f.css",
+    "static/js/main.22e9dd18.js"
+  ]
+}
